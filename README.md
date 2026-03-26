@@ -1,0 +1,1 @@
+使用YOLO11尝试对中国食物与Windows窗口进行目标检测。学习ONNX与Torch.
